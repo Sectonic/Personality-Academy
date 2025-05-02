@@ -31,7 +31,7 @@ const UpdatesPopup = ({ date, params }) => {
                     <img src="/img/main/launch.png" />
                 </div>
                 <div className="popup_section-text">
-                    <h3 className="popup_subtitle margin-sm">Official Project Release</h3>
+                    <h3 className="popup_subtitle margin-sm">Official Project Release | 11/5/23</h3>
                     <p>
                     Hi, I'm Alex, you may already know me as Aze. I'm proud to finally announce that Personality Academy has officially launched! 
                     </p>
@@ -41,7 +41,7 @@ const UpdatesPopup = ({ date, params }) => {
                     </p>
                     <p>
                     At last, we can't wait to finally share everything we've been working on.
-                    Me and Sujal have worked tirelessly on this for more than half a year.
+                    Me and Sujal have worked tirelessly on this.
                     </p>
                     <p>
                     And now, it's all yours.

@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+<div align="center">
 
-First, run the development server:
+<img src="public/img/main/logo.png" width="100" />
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+# Personality Academy
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Personality Theory Made Simple.**
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+</div>
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Introduction
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Personality Academy is a web platform dedicated to making personality theory, particularly the Objective Personality System (OPS) by Dave & Shannon Powers, accessible and understandable. Our mission is to provide a community-based space for learning, exploration, and application of personality concepts through comprehensive resources and interactive tools. We strive for a scientific and unbiased approach, focusing on methodology and real-world application.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Key Features
 
-## Learn More
+*   **📚 Learn:** In-depth courses covering OPS fundamentals like Saviors vs Demons, Human Needs, Letters, Functions, Animals, and Modalities.
+*   **🧑‍💻 Typing Guides:** Resources to help users understand the typing process, including self-typing guides, information on D&S typing, and triangulation methods.
+*   **📊 TypeChart App:** An advanced OPS type analyzer featuring diagrams, trait spectrums, coin analysis, and curated examples.
+*   **🔍 TypeSearch App:** A searchable database of 2000+ officially typed individuals to understand personality through real people.
+*   **👤 User Dashboard:** Personalized space for registered users to manage their profile, track progress (future feature), and access exclusive tools.
+*   **✨ Updates:** Regular updates with new features, content, and the latest information in the OPS community.
+*   **💬 Community Focus:** Encouraging user interaction and feedback, primarily through our Discord server.
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+| Category         | Technologies                                                     |
+| ---------------- | ---------------------------------------------------------------- |
+| Framework        | Next.js                                                          |
+| Language         | TypeScript                                                       |
+| UI               | React, CSS                                                       |
+| Database / ORM   | Prisma                                                           |
+| Authentication   | Google OAuth, Discord OAuth, bcryptjs, Cookies |
+| Payments         | Stripe                                                           |
+| Email            | Nodemailer                                                       |
+| Image Management | ImageKit                                                         |
+| Hosting          | Vercel                                                           |
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Usage
 
-## Deploy on Vercel
+Personality Academy is a live web application.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+You can access the platform here: [https://personalityacademy.vercel.app](https://personalityacademy.vercel.app)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contributors
+
+This project is primarily developed and maintained by:
+
+<a href="https://github.com/Sectonic"><img src="https://github.com/Sectonic.png?size=50" alt="Sujal's GitHub Profile" width="50" height="50" style="border-radius: 50%;"></a>
+<a href="https://github.com/Aezeus1"><img src="https://github.com/Aezeus1.png?size=50" alt="Alex (Aze)'s GitHub Profile" width="50" height="50" style="border-radius: 50%;"></a>
+
+## Support & Community
+
+Join our community, provide feedback, or get support:
+
+*   **Discord:** [Join our Discord Server](https://discord.com/invite/s4v5yQdnE9)
